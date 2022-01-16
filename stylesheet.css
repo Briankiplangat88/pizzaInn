@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url();
+    background-attachment: fixed;
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    flex-direction: right;
+    list-style: none;
+
+}
