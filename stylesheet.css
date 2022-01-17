@@ -1,13 +1,76 @@
-body{
+/* body{
     margin: 0px;
     padding: 0px;
-    background-image: url();
+    background-image: url(pizzabg.jpg);
     background-attachment: fixed;
     background-size: cover;
-}
+} */
 .navbar{
     display: flex;
     flex-direction: right;
     list-style: none;
 
 }
+navbar {
+    background-color: grey;
+  }
+  .container-fluid {
+    background-image: url("pizzabg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 20%;
+    font-size: 18px;
+    font-family: "Langar", cursive;
+    font-weight: bold;
+    color: white;
+  }
+  h1{
+      font-family: "Langar", cursive;
+      
+  }
+  .Table {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-family: "Redressed", cursive;
+    font-size: 18px;
+    
+  }
+  .card {
+    background-color:grey;
+  
+    
+  }
+  
+  
+  
+  .hidden {
+    display: none;
+  }
+  .container form {
+    background-color:grey;
+    color: white;
+  }
+  nav .navbar-nav li a {
+    color: white !important;
+    font-size: 18px;
+  }
+  
+  
+  #contain {
+      background-color: lightblue;
+      color: black;
+      text-align: center;
+      background-repeat: no-repeat;
+      font-family: 'Hanalei Fill', cursive;
+      font-size: 18px;
+  }
+  .container{
+      font-family: 'Fugaz One', cursive;
+  }
+  footer{
+      background-color: grey;
+      height: 2rem;
+      
+  }
