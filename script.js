@@ -156,5 +156,5 @@ $(".deliveryLocation").hide();
 $("#totalAmount").empty();
 $("#totalAmount").append(totalAmount);
 $(".TotalAmount").show();
-alert(+ "Dear " + NameOfCustomer + ": Your now  total amount to is Ksh. " + totalAmount + ". delivery wil be done to " + estate + ", " + houseNumber + " in thirty minutes." + "please pay on delivery." + "enjoy the best pizza.");
+alert(+ "Hello " + NameOfCustomer + ": Your now  total amount to is Ksh. " + totalAmount + ". delivery wil be done to " + estate + ", " + houseNumber + " in thirty minutes." + "please pay on delivery." + "enjoy the best pizza.");
 });
