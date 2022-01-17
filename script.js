@@ -11,22 +11,22 @@ Pizza.prototype.totalPrice = function(){
     return (this.pizzaCrust + this.pizzaTopping + this.pizzaSize) * this.PizzaNumber
 };
 Pizza.prototype.pizzaS = function () {
-    if (this.pizzaSize == 900) {
+    if (this.pizzaSize == 1200) {
         return "Large"
         
-    } else if (this.pizzaSize == 600) {
+    } else if (this.pizzaSize == 750) {
         return "Medium"
-    } else if (this.pizzaSize == 400) {
+    } else if (this.pizzaSize == 300) {
         return "Small"
     }
 }
 Pizza.prototype.pizzaC = function () {
-    if (this.pizzaCrust == 150) {
+    if (this.pizzaCrust == 50) {
         return "Thin"
         
-    } else if (this.pizzaCrust == 200) {
+    } else if (this.pizzaCrust == 100) {
         return "Thick"
-    } else if (this.pizzaCrust == 250) {
+    } else if (this.pizzaCrust == 150) {
         return "Stuffed"
     }
 }
@@ -34,7 +34,7 @@ Pizza.prototype.pizzaT =function(){
     if (this.pizzaTopping == 150){
         return "Potato"
     }
-    else if (this.pizzaTopping == 170){
+    else if (this.pizzaTopping == 100){
         return "Mushrooms"
     }
     else if ( this.pizzaTopping == 200){
@@ -156,5 +156,5 @@ $(".deliveryLocation").hide();
 $("#totalAmount").empty();
 $("#totalAmount").append(totalAmount);
 $(".TotalAmount").show();
-alert(+ "Hello " + NameOfCustomer + ": Your now  total amount to is Ksh. " + totalAmount + ". delivery will be done in " + estate + ", " + houseNumber + " in thirty minutes." + "Please pay on delivery." + "Enjoy the best pizza.");
+alert(+ "Hey " + NameOfCustomer + ": Your now  total amount to is Ksh. " + totalAmount + ". delivery will be done to " + estate + ", " + houseNumber + " in thirty minutes." + "Please pay on delivery." + "Enjoy the best pizza.");
 });
