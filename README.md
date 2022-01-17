@@ -3,19 +3,19 @@
 #### AUTHOR :BRIAN KIPLANGAT
 1.Brian is an upcoming software dveloper who also studies at moringa school and wishes to add more skills in tech industry
 ## Description
-pizzaInn is a website where you can order your pizza anytime you want and it will be delivered at your doorstep,. Click the live link provide below to tour the site.
+pizzaInn is a website where you can order your pizza anytime you want and it will be delivered at your doorstep,. Click the live link to tour the site.
 ## Setup/Installation Requirements
 * install git in your terminal Used visual studio tool to develop the site and google chrome for running the program locally.
 
 
-### Technologies Used
+#### Technologies Used
 1. HTML
 2. CSS
-3.JAVASCRIPT
-4. GIT
+3. JAVASCRIPT
+
 ## Support and contact details
 Feel free to contact any of the contributors for support on any task.
-- Brian Kiplagat <brian.kiplagat@student.moringaschool.com>
+- Brian Kiplagat <brian.kiplangat@student.moringaschool.com>
 ### License
 This Project is licensed under the MIT LICENSE.
 MIT License Copyright © 2022 Brian kiplangat
