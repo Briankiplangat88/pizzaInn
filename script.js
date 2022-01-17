@@ -142,7 +142,7 @@ if (deliveryOption === "deliver") {
 $("#totalAmount").append(totalAmount);
 $(".TotalAmount").show();
 } else {
-    alert(+"Dear, "+ NameOfCustomer + ": total amount is Ksh. " + totalAmount + ".Collect your order in thirty minutes." + " " + " enjoy the best pizza .");
+    alert(+"Hey, "+ NameOfCustomer + ": total amount is Ksh. " + totalAmount + ".Collect your order in thirty minutes." + " " + " enjoy the best pizza .");
 }
 });
 $("#locationForm").submit(function (event) {
