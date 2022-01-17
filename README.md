@@ -1,8 +1,7 @@
 # PIZZAINN
 #### A Web Application that you can order pizza online and have it delivered at your location , 15th january, 2022.
-#### AUTHOR
-1. Brian Kiplangat
- -Brian is an upcoming software dveloper who also studies at moringa school and wishes to add more skills in tech industry
+#### AUTHOR :BRIAN KIPLANGAT
+1.Brian is an upcoming software dveloper who also studies at moringa school and wishes to add more skills in tech industry
 ## Description
 pizzaInn is a website where you can order your pizza anytime you want and it will be delivered at your doorstep,. Click the live link provide below to tour the site.
 ## Setup/Installation Requirements
