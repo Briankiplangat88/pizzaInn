@@ -142,7 +142,7 @@ if (deliveryOption === "deliver") {
 $("#totalAmount").append(totalAmount);
 $(".TotalAmount").show();
 } else {
-    alert(+"Dear, "+ NameOfCustomer + ": total bill is Ksh. " + totalAmount + ".Collect your order in the next one hour." + " " + " Feel free to reach out to us anytime for questions peraining our products.");
+    alert(+"Dear, "+ NameOfCustomer + ": total amount is Ksh. " + totalAmount + ".Collect your order in thirty minutes." + " " + " enjoy the best pizza .");
 }
 });
 $("#locationForm").submit(function (event) {
@@ -156,5 +156,5 @@ $(".deliveryLocation").hide();
 $("#totalAmount").empty();
 $("#totalAmount").append(totalAmount);
 $(".TotalAmount").show();
-alert(+ "Dear " + NameOfCustomer + ": Your new total bill is Ksh. " + totalAmount + ". Your order will be delivered to " + estate + ", " + houseNumber + " in the next one hour." + " Make full payment on delivery." + "Feel free to reach out to us anytime for questions peraining our products and deliveries.");
+alert(+ "Dear " + NameOfCustomer + ": Your now  total amount to is Ksh. " + totalAmount + ". delivery wil be done to " + estate + ", " + houseNumber + " in thirty minutes." + "please pay on delivery." + "enjoy the best pizza.");
 });
