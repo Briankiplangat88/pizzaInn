@@ -13,7 +13,7 @@ pizzaInn is a website where you can order your pizza anytime you want and it wil
 1. HTML
 2. CSS
 3.JAVASCRIPT
-4 GIT
+4. GIT
 ## Support and contact details
 Feel free to contact any of the contributors for support on any task.
 - Brian Kiplagat <brian.kiplagat@student.moringaschool.com>
